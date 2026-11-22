@@ -1,6 +1,5 @@
 # Primary Public Sources
 
-
 - [Arquivo Nacional Torre do Tombo](https://antt.dglab.gov.pt/)
 - [Biblioteca Nacional de Portugal](https://www.bnportugal.gov.pt/)
 - [Slave Voyages](https://www.slavevoyages.org/)
@@ -23,3 +22,5 @@
 - [UCL Legacies of British Slavery](https://www.ucl.ac.uk/lbs/)
 - [UK National Archives - Slavery](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/slavery-or-slave-owners/)
 - [Library of Congress - Slavery Resources](https://guides.loc.gov/slavery)
+- [Slave Voyages - Trans-Atlantic](https://www.slavevoyages.org/voyage/database)
+- [Biblioteca Nacional de Portugal](https://bndigital.bnportugal.gov.pt/)
