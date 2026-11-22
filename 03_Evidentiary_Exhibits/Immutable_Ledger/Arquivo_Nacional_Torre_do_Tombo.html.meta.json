@@ -1,0 +1,11 @@
+{
+  "url": "https://antt.dglab.gov.pt/",
+  "final_url": "https://antt.dglab.gov.pt/",
+  "status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 34877,
+  "sha256": "1c7405bb2e9e8e6dd06ac0ca609489e90a50bc82a80e301756f47c02ded67f25",
+  "captured_at": "2026-11-22T06:46:04.227981Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}

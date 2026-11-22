@@ -1,0 +1,11 @@
+{
+  "url": "https://www.unesco.org/en/routes-enslaved-peoples",
+  "final_url": "https://www.unesco.org/en/routes-enslaved-peoples",
+  "status": 200,
+  "content_type": "",
+  "bytes": 296914,
+  "sha256": "7acfca8c622fd278c6054b057295dd7c01b7c3856639b1ac331f6272490d35ea",
+  "captured_at": "2026-11-22T06:46:09.738843Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}

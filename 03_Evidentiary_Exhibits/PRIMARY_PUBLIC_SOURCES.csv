@@ -1,0 +1,7 @@
+iso,country,source_type,title,url,access_class,status
+PT,Portugal,PUBLIC_PORTAL,Arquivo Nacional Torre do Tombo,https://antt.dglab.gov.pt/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+PT,Portugal,PUBLIC_PORTAL,Biblioteca Nacional de Portugal,https://www.bnportugal.gov.pt/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+PT,Portugal,PUBLIC_PORTAL,Slave Voyages,https://www.slavevoyages.org/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+PT,Portugal,PUBLIC_PORTAL,UN OHCHR,https://www.ohchr.org/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+PT,Portugal,PUBLIC_PORTAL,Library of Congress,https://www.loc.gov/,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
+PT,Portugal,PUBLIC_PORTAL,UNESCO Slavery Routes,https://www.unesco.org/en/routes-enslaved-peoples,PUBLIC_PORTAL,VERIFY_AND_DOWNLOAD
