@@ -1,0 +1,12 @@
+{
+  "url": "https://bndigital.bnportugal.gov.pt/",
+  "final_url": "https://bndigital.bnportugal.gov.pt/",
+  "status": 200,
+  "title": "In\u00edcio",
+  "bytes": 34616,
+  "sha256": "95b46c03dd23adbf7a6272e2f09d04e019cecd6c13609981efa979f4ba48279d",
+  "captured_at": "2026-11-22T20:27:46.763382Z",
+  "custodian": "OpenCode/browser-fallback",
+  "provenance": "browser-rendered-outerHTML",
+  "batch": "pilot-browser-fallback"
+}
