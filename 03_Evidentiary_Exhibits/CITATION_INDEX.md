@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
 
 - CIT-0001: https://antt.dglab.gov.pt/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Arquivo_Nacional_Torre_do_Tombo.html` | `1c7405bb2e9e8e6d...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.bnportugal.gov.pt/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Biblioteca_Nacional_de_Portugal.html` | `c370a98f1e65456d...` | PENDING_LEGAL_REVIEW

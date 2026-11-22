@@ -1,12 +1,13 @@
 {
   "url": "https://chroniclingamerica.loc.gov/",
   "final_url": "https://chroniclingamerica.loc.gov/",
-  "status": 200,
   "title": "Chronicling America (LOC Newspapers)",
   "bytes": 100091,
   "sha256": "b2e3d457fe9a9addf5afc8ba6ed8920757030b6b8728746f91987fb3f45128e7",
   "captured_at": "2026-11-22T20:26:39.559759Z",
   "custodian": "OpenCode/browser-fallback",
   "provenance": "browser-rendered-outerHTML",
-  "batch": "pilot-browser-fallback"
+  "batch": "pilot-browser-fallback",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "HTTP status not captured by browser outerHTML fallback; fabricated status removed. Do not treat as authenticated or verified."
 }
