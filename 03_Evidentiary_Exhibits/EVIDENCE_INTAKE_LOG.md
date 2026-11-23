@@ -51,7 +51,7 @@
 
 | 2026-11-22 | UN_OHCHR_racial_discrimination_browser.html | https://www.ohchr.org/en/topic/racism-racial-discrimination | OpenCode/browser-fallback | 058b5844305991cfcd722f2fa59e77fdbdbe98cc09e14440577a6fdc251cff0a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/topic/racism-racial-discrimination |
 
-| 2026-11-22 | Library_of_Congress_-_Portuguese_slave_trade_browser.html | https://www.loc.gov/item/?q=portuguese+slave+trade | OpenCode/browser-fallback | db43623297c5a21770281ff1259feec27df8cc03274f9714d1a90c7c3954374e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=portuguese+slave+trade |
+| 2026-11-22 | Library_of_Congress_-_Portuguese_slave_trade_browser.html | https://www.loc.gov/item/?q=portuguese+slave+trade | OpenCode/browser-fallback | db43623297c5a21770281ff1259feec27df8cc03274f9714d1a90c7c3954374e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=portuguese+slave+trade | | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
 
 | 2026-11-22 | World_Bank_Portugal_browser.html | https://data.worldbank.org/country/portugal | OpenCode/browser-fallback | 3ae8621ddd54fa5a34958373b7e4d73797a0b2cd11379c792a6a120122245b7a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60014 final_url=https://data.worldbank.org/country/portugal |
 
