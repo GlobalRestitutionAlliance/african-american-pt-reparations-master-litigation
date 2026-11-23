@@ -47,6 +47,14 @@
 | 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | ba2e21845ed7d4fcb513b1b8c617782561653ff34c4a46dec77d4ba8673e9f86 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=26594 final_url=https://digitallibrary.un.org/ |
 | 2026-11-22 | UN_OHCHR_browser.html | https://www.ohchr.org/ | OpenCode/browser-fallback | 89ce53d436d81b160629c8b9bbe57c09d75c7d18a80e9bc11f25e6f0d0f4de36 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=100114 final_url=https://www.ohchr.org/ |
 
+| 2026-11-22 | HathiTrust_Digital_Library_73a05a74_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 73a05a74d44525ffffe44536b599d506d33eaedd322bc48eb1f115e8ae96f66f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | UN_OHCHR_racial_discrimination_browser.html | https://www.ohchr.org/en/topic/racism-racial-discrimination | OpenCode/browser-fallback | 058b5844305991cfcd722f2fa59e77fdbdbe98cc09e14440577a6fdc251cff0a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/topic/racism-racial-discrimination |
+
+| 2026-11-22 | Library_of_Congress_-_Portuguese_slave_trade_browser.html | https://www.loc.gov/item/?q=portuguese+slave+trade | OpenCode/browser-fallback | db43623297c5a21770281ff1259feec27df8cc03274f9714d1a90c7c3954374e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=portuguese+slave+trade |
+
+| 2026-11-22 | World_Bank_Portugal_browser.html | https://data.worldbank.org/country/portugal | OpenCode/browser-fallback | 3ae8621ddd54fa5a34958373b7e4d73797a0b2cd11379c792a6a120122245b7a | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60014 final_url=https://data.worldbank.org/country/portugal |
+
 ## Intake Rules
 - No `VERIFIED` status without local hashed source artifact and human sign-off.
 - Captures are `PUBLIC_CAPTURE_UNAUTHENTICATED` until custodian/legal authentication.
