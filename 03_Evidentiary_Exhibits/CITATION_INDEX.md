@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off. 404/not-found captures are marked NOT_SUBSTANTIVE_404_PENDING_RECAPTURE and are not substantive evidence until recaptured.
 
 - CIT-0001: https://antt.dglab.gov.pt/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Arquivo_Nacional_Torre_do_Tombo.html` | `1c7405bb2e9e8e6d...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://www.bnportugal.gov.pt/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Biblioteca_Nacional_de_Portugal.html` | `c370a98f1e65456d...` | PENDING_LEGAL_REVIEW
@@ -26,3 +26,7 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0022: https://history.state.gov/historicaldocuments | `03_Evidentiary_Exhibits/Immutable_Ledger/US_State_Dept_FRUS.html` | `c948fdff783f2e5f...` | PENDING_LEGAL_REVIEW
 - CIT-0023: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0024: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `f97e60fe49fbd9dd...` | PENDING_LEGAL_REVIEW
+- CIT-0025: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_73a05a74_browser.html` | `dc98a44dbb3a4331...` | PENDING_LEGAL_REVIEW
+- CIT-0026: https://www.loc.gov/item/?q=portuguese+slave+trade | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Portuguese_slave_trade_browser.html` | `1cc87d71916da33e...` | PENDING_LEGAL_REVIEW | NOT_SUBSTANTIVE_404_PENDING_RECAPTURE
+- CIT-0027: https://www.ohchr.org/en/topic/racism-racial-discrimination | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_racial_discrimination_browser.html` | `88bf45ea8bb53e57...` | PENDING_LEGAL_REVIEW
+- CIT-0028: https://data.worldbank.org/country/portugal | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Portugal_browser.html` | `7d9cb757b24f6d16...` | PENDING_LEGAL_REVIEW
